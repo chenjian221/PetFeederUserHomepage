@@ -1,0 +1,188 @@
+[18-Oct-2014 09:23:34 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'db.cip.gatech.edu' (4) in /home2/gt86/public_html/db/db_helper.php on line 8
+[18-Oct-2014 09:35:51 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gt86_86'@'localhost' (using password: YES) in /home2/gt86/public_html/db/db_helper.php on line 8
+[18-Oct-2014 09:36:15 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gt86_86'@'localhost' (using password: YES) in /home2/gt86/public_html/db/db_helper.php on line 8
+[18-Oct-2014 09:36:17 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gt86_86'@'localhost' (using password: YES) in /home2/gt86/public_html/db/db_helper.php on line 8
+[18-Oct-2014 09:58:07 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home2/gt86/public_html/db/db_helper.php on line 14
+[18-Oct-2014 09:58:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$db_host' (T_VARIABLE) in /home2/gt86/public_html/db/db_helper.php on line 14
+[18-Oct-2014 12:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/gt86/public_html/db/student.php on line 6
+[18-Oct-2014 12:31:56 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/gt86/public_html/db/student.php on line 6
+[18-Oct-2014 12:32:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 32
+[18-Oct-2014 12:37:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 32
+[18-Oct-2014 12:40:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 32
+[18-Oct-2014 12:41:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 54
+[18-Oct-2014 12:42:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 54
+[18-Oct-2014 12:53:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 34
+[18-Oct-2014 12:54:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gt86/public_html/db/db_helper.php:14) in /home2/gt86/public_html/db/student.php on line 33
+[18-Oct-2014 14:36:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:36:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:38:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:38:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:38:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:39:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:41:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/student.php on line 10
+[18-Oct-2014 14:48:20 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 14:50:15 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 14:50:19 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 14:50:38 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 15:04:19 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 43
+[18-Oct-2014 15:04:38 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 43
+[18-Oct-2014 15:05:27 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 43
+[18-Oct-2014 15:06:00 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 43
+[18-Oct-2014 15:06:05 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 43
+[18-Oct-2014 15:24:52 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 15:25:03 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 15:25:15 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 15:25:25 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 15:25:57 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[18-Oct-2014 15:26:30 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[19-Oct-2014 14:22:05 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[19-Oct-2014 14:22:52 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[19-Oct-2014 14:23:30 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[19-Oct-2014 14:23:52 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[22-Oct-2014 14:02:39 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[22-Oct-2014 14:02:53 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[22-Oct-2014 14:04:03 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[22-Oct-2014 14:04:20 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[22-Oct-2014 14:50:44 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:50:38 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:55:05 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:56:09 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:56:17 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:56:19 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:56:27 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:56:34 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:56:37 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:57:39 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:57:41 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:58:25 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:58:28 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 22:58:30 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:14:39 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:15:46 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:15:48 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:51:01 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:53:40 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:55:37 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 48
+[27-Oct-2014 23:56:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home2/gt86/public_html/db/db_helper.php on line 49
+[27-Oct-2014 23:57:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home2/gt86/public_html/db/db_helper.php on line 49
+[27-Oct-2014 23:57:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home2/gt86/public_html/db/db_helper.php on line 49
+[22-Nov-2014 22:10:34 America/Chicago] PHP Warning:  Missing argument 8 for addTutor(), called in /home2/gt86/public_html/db/tutor.php on line 6 and defined in /home2/gt86/public_html/db/tutor.php on line 51
+[22-Nov-2014 22:10:34 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 70
+[22-Nov-2014 22:31:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home2/gt86/public_html/db/tutor.php on line 6
+[22-Nov-2014 22:31:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home2/gt86/public_html/db/tutor.php on line 6
+[22-Nov-2014 22:32:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home2/gt86/public_html/db/tutor.php on line 6
+[22-Nov-2014 22:32:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home2/gt86/public_html/db/tutor.php on line 6
+[22-Nov-2014 22:32:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home2/gt86/public_html/db/tutor.php on line 6
+[22-Nov-2014 22:33:46 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 70
+[22-Nov-2014 22:54:06 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[22-Nov-2014 23:06:32 America/Chicago] PHP Warning:  sprintf(): Too few arguments in /home2/gt86/public_html/db/tutor.php on line 27
+[22-Nov-2014 23:06:32 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 43
+[22-Nov-2014 23:07:01 America/Chicago] PHP Warning:  sprintf(): Too few arguments in /home2/gt86/public_html/db/tutor.php on line 27
+[22-Nov-2014 23:09:14 America/Chicago] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home2/gt86/public_html/db/tutor.php on line 29
+[22-Nov-2014 23:12:00 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/gt86/public_html/db/tutor.php on line 30
+[23-Nov-2014 00:39:28 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 01:23:36 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 01:23:49 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 02:33:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home2/gt86/public_html/db/tutor.php on line 116
+[23-Nov-2014 02:35:18 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home2/gt86/public_html/db/tutor.php on line 116
+[23-Nov-2014 02:49:18 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 02:49:34 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 02:50:27 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 03:00:47 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:00:47 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:01:16 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:01:16 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:02:55 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:02:55 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:03:51 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:03:51 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:04:40 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:04:40 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:05:15 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:05:15 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:05:58 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:05:58 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:07:52 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:07:52 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:08:50 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:08:50 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:10:13 America/Chicago] PHP Warning:  Missing argument 8 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 03:10:13 America/Chicago] PHP Warning:  Missing argument 9 for updateTutor(), called in /home2/gt86/public_html/db/tutor.php on line 56 and defined in /home2/gt86/public_html/db/tutor.php on line 115
+[23-Nov-2014 14:54:19 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 15:20:19 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[23-Nov-2014 15:32:03 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 60
+[23-Nov-2014 15:33:26 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 60
+[30-Nov-2014 10:15:37 America/Chicago] PHP Fatal error:  Call to undefined function ggetDBResultInserted() in /home2/gt86/public_html/db/student.php on line 18
+[30-Nov-2014 10:42:24 America/Chicago] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home2/gt86/public_html/db/student.php on line 20
+[30-Nov-2014 11:34:10 America/Chicago] PHP Fatal error:  Call to undefined function getTutorInfo() in /home2/gt86/public_html/db/student.php on line 11
+[30-Nov-2014 11:34:27 America/Chicago] PHP Fatal error:  Call to undefined function getTutorInfo() in /home2/gt86/public_html/db/student.php on line 11
+[30-Nov-2014 11:34:49 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:35:54 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:36:17 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:37:52 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:41:01 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:41:57 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 33
+[30-Nov-2014 11:42:53 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:43:22 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 11:43:25 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 32
+[30-Nov-2014 13:01:53 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:02:55 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:03:06 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:05:36 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:06:14 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:06:25 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:06:50 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:06:56 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:07:07 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:07:19 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:08:02 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:08:24 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:09:00 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:09:38 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:10:00 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:10:08 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:10:40 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:11:02 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:11:24 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:12:18 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:12:21 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:12:30 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:13:02 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:13:04 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:13:59 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:14:02 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:18:41 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:19:21 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:20:00 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:20:32 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 13:21:40 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 22:40:01 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 21
+[30-Nov-2014 22:42:01 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 21
+[30-Nov-2014 22:42:04 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 21
+[30-Nov-2014 22:42:08 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 21
+[30-Nov-2014 22:42:35 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 21
+[30-Nov-2014 22:50:59 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 22:52:25 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 22:52:43 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 22:53:00 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 22:54:31 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 22:55:06 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[30-Nov-2014 23:19:32 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 15:13:13 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 15:13:24 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 15:14:15 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 15:15:28 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:05:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/gt86/public_html/db/transaction.php on line 16
+[01-Dec-2014 16:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/gt86/public_html/db/transaction.php on line 22
+[01-Dec-2014 16:07:19 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/gt86/public_html/db/db_helper.php on line 46
+[01-Dec-2014 16:07:57 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/gt86/public_html/db/db_helper.php on line 46
+[01-Dec-2014 16:16:36 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:25:56 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:26:20 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:26:23 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:26:37 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:27:38 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:28:25 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
+[01-Dec-2014 16:30:01 America/Chicago] PHP Fatal error:  Call to a member function sandboxHeader() on a non-object in /home2/gt86/public_html/db/db_helper.php on line 31
