@@ -1,6 +1,6 @@
 <?php
 $db_host = "localhost";
-$db_database = "gt86_project";
-$db_username = "gt86_86";
-$db_password = "HMGhmg4242";
+$db_database = "DogFeeder";
+$db_username = "jchen351";
+$db_password = "4242";
 ?>

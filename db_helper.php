@@ -15,6 +15,17 @@ if(!$connection){
 $db_select = mysql_select_db($db_database);
 if(!$db_select){die("Error with db select.<br/><br/>".mysql_error());}
 
+// Select Singal
+function getDBResultRecord($dbQuery){
+	$dbResults=mysql_query($dbQuery);
+
+	if(!$dbResults){
+		mysql_error();
+		die($dbQuery);
+	}
+	return mysql_fetch_assoc($dbResults);
+}
+// Select Singal multiple
 function getDBResultsArray($dbQuery){
 	$dbResults=mysql_query($dbQuery);
 	if(!$dbResults){
@@ -35,22 +46,8 @@ function getDBResultsArray($dbQuery){
 	return $resultsArray;
 }
 
-function getDBResultRecord($dbQuery){
-	$dbResults=mysql_query($dbQuery);
 
-	if(!$dbResults){
-		//$GLOBALS["_PLATFORM"]->sandboxHeader("HTTP/1.1 500 Internal Server Error");
-		die();
-	}
-
-	if(mysql_num_rows($dbResults) != 1){
-		//$GLOBALS["_PLATFORM"]->sandboxHeader('HTTP/1.1 404 Not Found');
-		return -1;
-		die();
-	}
-	return mysql_fetch_assoc($dbResults);
-}
-
+// Change
 function getDBResultAffected($dbQuery){
 	$dbResults=mysql_query($dbQuery);
 	if($dbResults){
@@ -60,7 +57,7 @@ function getDBResultAffected($dbQuery){
 		die(mysql_error());
 	}
 }
-
+// Insert
 function getDBResultInserted($dbQuery,$id){
 	$dbResults=mysql_query($dbQuery);
 	if($dbResults){
@@ -70,4 +67,6 @@ function getDBResultInserted($dbQuery,$id){
 		die(mysql_error());
 	}
 }
+
+
 ?>
